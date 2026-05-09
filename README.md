@@ -14,7 +14,7 @@
 **Σ Runaway Cosmic Researcher: The Self-Decoding Manual of Sigmafzbbbb** 🌌🔭✨  
 
 *ID Decryption Report* 📜🕵️♂️  
-**Name**: Σigma(fzbbbb) 🔠🌀  
+**名字**: Σigma(fzbbbb) 🔠🌀  
 **Alignment**: Chaotic-Neutral Human Specimen 🎭⚖️  
 **Initial Coordinates**: Internet Parallel Universe No.42 🌐🪐  
 **Current Status**: Quantum superposition of "slacking off" and "hyper-creative mode." ⚛️💤💻🚀  
@@ -66,33 +66,17 @@ I'm currently working on building my own website and blog! 💻🚧⚡🌐✨ (C
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sigmafzbbbb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Sigmafzbbbb&&style=flat-square)  
-  
-
-<br/>  
+<br/> 
 
 
 <br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Sigmafzbbbb&&style=flat-square)  
+
+![动态访问量](https://count.kjchmc.cn/get/@SigmafzbbbbSigmafzbbbb?theme=rule34)
+
+![Ling](https://socialify.git.ci/sigmafzbbbb/sigmafzbbbb/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
